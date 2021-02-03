@@ -1,7 +1,7 @@
-HELLO Ý A SMS SENDER 
+ANON SMS SENDER 
 
-ÝF WANT RUN ME . U SHOULD USE THÝS COMMAD [python sms.py]
+USAGE : [python sms.py]
 
-NOTE : U MUST ÝNSTALLED TO REQUESTS LÝB [pip install requests]
+NOTE : U MUST INSTALLED TO REQUESTS LIB [pip install requests]
 
 CODED BY NUKE  
